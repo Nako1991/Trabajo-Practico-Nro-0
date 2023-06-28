@@ -1,1 +1,1 @@
-# UTN-MDQ-Tecnicatura-Universitaria-en-Programaci-n
+# UTN-MDQ-Tecnicatura-Universitaria-en-Programacion
